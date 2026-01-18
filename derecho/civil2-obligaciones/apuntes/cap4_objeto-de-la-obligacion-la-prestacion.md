@@ -57,6 +57,7 @@ Reglas principales (dispositivas, se puede pactar lo contrario):
 **Art 1097** la obligación de dar cosa determinada incluye también sus accesorios, aunque no se mencionen
 
 ##### Obligación de hacer
+
 - **obligación de medios** el deudor solo debe desplegar la actividad con la diligencia adecuada, sin garantizar un resultado.
 - **obligación de resultado**  el deudor debe alcanzar el resultado pactado (ejemplo: fabricar una mesa)
 	- Si no se obtiene el resultado, el incumplimiento recae sobre el deudor aunque actuara diligentemente.
