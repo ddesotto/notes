@@ -48,7 +48,7 @@ Mínimo **dos** personas
 	- vinculados a posesión y control de bienes
 	- carácter duradero mientras no cambien circunstancias que lo fundamentan
 	- se requieren requisitos formales estrictos para su mutabilidad
-	- son susceptibles de posesión, por lo que pueden adquirirse por ****usucapión**
+	- son susceptibles de posesión, por lo que pueden adquirirse por **usucapión**
 	  
 	  
 > **usucapión** : modo legal de adquirir la propiedad de bienes (muebles o inmuebles) por su posesión continuada durante un tiempo establecido por la ley

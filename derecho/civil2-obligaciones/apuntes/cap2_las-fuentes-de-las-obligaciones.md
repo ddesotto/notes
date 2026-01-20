@@ -4,9 +4,9 @@
 > hechos actos o circunstancias que sirven de fundamento a las obligaciones en sentido jurídico
 
 
-# Art 1809 CC
+# Art 1089 CC
 
-> **Artículo 1809**
+> **Artículo 1089**
 > _Las obligaciones nacen de la ley, de los contratos y cuasicontratos y de los actos y omisiones ilícitos en los que intervenga cualquier género de culpa o negligencia_
 
 Sacamos cuatro fuentes principales: 

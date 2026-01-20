@@ -55,7 +55,7 @@ Algunas notas:
 
 **Simple** - una sola prestación u objeto
 
-**Compleja** - varias prestaciones u objetos
+**Compleja** - varias prestaciones u objetos (múltiple)
 - **cumulativas** - todas las prestaciones son exigibles
 - **alternativas** - puede cumplir con cualquiera de las prestaciones
 	- la elección corresponde al deudor (si elige el acreedor sería simple desde la notifcacuón)

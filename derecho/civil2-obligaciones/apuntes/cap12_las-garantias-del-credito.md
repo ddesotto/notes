@@ -114,6 +114,8 @@ Se activa solo en caso de incumplimiento imputable al deudor, excepto las penas 
 2. **Penitenciales o de desestimiento**
 	- permiten desistir del contrato; quienes las entrega las pierde, quien las recibe se arrepiente y devuelve el doble
 	- no estimulan el cumplimiento, ni constituyen garantía
+	- únicas reguladas en el código civil (**Art 1454**)
+	
 3. **Penales**
 	- fijan cantidad indemnizatoria por incumplimiento
 	- **efectos**
