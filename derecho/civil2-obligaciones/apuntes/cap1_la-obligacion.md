@@ -59,7 +59,7 @@ Mínimo **dos** personas
 - **civiles** : plenamente exigibles, permiten al acreedor reclamar judicialmente
 - **naturales** crecen de acción judicial, aunque si el deudor cumple voluntariamente, el acreedor puede retener el pago (_soluti retentio_), sin obligación de devolverlo
 
-**EJEMPLO** : si el deudor paga una deuda prescrita, el acreedor si la puede quedar.
+**EJEMPLO** : si el deudor paga una deuda prescrita, el moacreedor si la puede quedar.
 
 ### Regulación en el Código Civil español 
 

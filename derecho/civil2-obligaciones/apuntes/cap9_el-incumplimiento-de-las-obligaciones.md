@@ -1,6 +1,6 @@
-
+ 
 # Supuesto de incumplimiento
-
+ 
 El incumplimiento de una obligación puede darse tanto por la falta total de ejecución de la prestación debida, como por su ejecución inexacta.
 
 - **incumplimiento propio o absoluto**: se produce cuando la prestación no puede ejecutarse definitivamente 

@@ -1,63 +1,7 @@
-
-F1-23 
-- P1 [[cap2_las-fuentes-de-las-obligaciones]]
-- P2 [[cap13_la-proteccion-del-credito]]
-- Práctica 
-	- [[cap2_las-fuentes-de-las-obligaciones#c) Cuasicontratos]]
-
-F2-23
-- P1 [[cap8_imputacion-del pago-y-formas-de-cumplimiento]]
-- P2 [[cap12_las-garantias-del-credito]]
-- Práctica
-	- [[cap3_los-sujetos-de-la-obligacion#Mancomunadas]]
-	- [[cap7_el-cumplimiento-de-las-obligaciones#Pago por terceros]]
-
-S23
-- P1 [[cap4_objeto-de-la-obligacion-la-prestacion]]
-- P2 [[cap16]] TODO
-- Práctico
-	- [[cap13_la-proteccion-del-credito#Acción revocatoria o pauliana]]
-	- [[cap13_la-proteccion-del-credito#Plazo]]
-
-F1-24
-- P1 [[cap7_el-cumplimiento-de-las-obligaciones]]
-- P2 [[cap13_la-proteccion-del-credito]]
-- Práctica
-	- [[cap7_el-cumplimiento-de-las-obligaciones#Sujetos del cumplimiento]]
-	- [[cap9_el-incumplimiento-de-las-obligaciones#Indemnización de daños y perjuicios]]
-	
-F2-24
-- P1 [[cap5_determinacion-o-indeterminacion-relativa]]
-- P2 [[cap]]
-- Práctica
-	- [[cap12_las-garantias-del-credito]]
-	- [[cap12_las-garantias-del-credito#Efectos]]
-
-S24 
-- P1 [[cap8_imputacion-del pago-y-formas-de-cumplimiento]]
-- P2 [[cap15_cuasicontratos-y-enriquecimiento-injusto]]
-- Práctico
-	- [[cap3_los-sujetos-de-la-obligacion]]
-	- [[cap12_las-garantias-del-credito]]
-
-F2-24
-- P1 [[cap4_objeto-de-la-obligacion-la-prestacion#Obligación de hacer]]
-- P2 [[cap13_la-proteccion-del-credito#Acción subrogatoria o indirecta]]
-- Práctico
-	- [[cap12_las-garantias-del-credito#Arras o señal]]
-	- [[cap12_las-garantias-del-credito#Efectos]]
-
-
-F2-25
-- P1 [[cap1_la-obligacion]]
-- P2 [[cap15_cuasicontratos-y-enriquecimiento-injusto]]
-- Práctico
-	- [[cap7_el-cumplimiento-de-las-obligaciones]]
-	- [[cap8_imputacion-del pago-y-formas-de-cumplimiento#Consignación]]
-	- [[cap9_el-incumplimiento-de-las-obligaciones#Mora]]
-S25
-- P1 [[cap3_los-sujetos-de-la-obligacion]]
-- P2 [[cap12_las-garantias-del-credito]]
-- Práctico
-	- [[cap4_objeto-de-la-obligacion-la-prestacion]]
-
+| **Convocatoria** | **Fecha**         | **Pregunta Teórica 1**                               | **Pregunta Teórica 2**                                | **Caso Práctico (Tema Probable)**                                             |
+| ---------------- | ----------------- | ---------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **24F1**         | Feb 2024 (1ª Sem) | **Tema 7**: Requisitos del cumplimiento (exactitud). | **Tema 13**: Art. 1911 y responsabilidad patrimonial. | **Tema 7/9**: Obligación personalísima y cumplimiento por tercero (Cantante). |
+| **24F2**         | Feb 2024 (2ª Sem) | **Tema 5**: Genéricas/Específicas (pérdida).         | **Tema 16**: Culpa o negligencia.                     | **Tema 12**: Derecho de retención (Taller mecánico).                          |
+| **24SO**         | Sept 2024         | **Tema 8**: Imputación de pagos.                     | **Tema 15**: Enriquecimiento injusto.                 | **Tema 16/17**: Resp. extracontractual / Daños por agua (Vecinos).            |
+| **25F1**         | Feb 2025 (1ª Sem) | **Tema 4**: Obligación de hacer.                     | **Tema 13**: Acción subrogatoria.                     | **Tema 12**: Arras penitenciales (Compraventa vivienda).                      |
+| **25SO**         | Sept 2025         | **Tema 3**: Solidaridad pasiva.                      | **Tema 12**: Las arras (rasgos y tipos).              | **Tema 8**: Dación en pago (Cuadro por deuda).                                |

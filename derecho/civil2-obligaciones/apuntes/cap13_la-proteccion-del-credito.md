@@ -93,7 +93,7 @@ Dado que el deudor responde con todo su patrimonio, el acreedor busca evitar que
 
 ### Acción directa
 
-> [DEF] Definición
+> [!DEF] Definición
 > La **acción directa** permite al acreedor reclamar **directamente al deudor de su deudor** el cumplimiento. 
 
 **Ejemplos** 
